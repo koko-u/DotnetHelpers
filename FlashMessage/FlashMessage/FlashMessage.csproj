@@ -24,4 +24,8 @@
       <Folder Include="TagHelpers\" />
       <Folder Include="ViewModels\" />
     </ItemGroup>
+
+    <ItemGroup>
+        <None Include="../README.md" Pack="true" PackagePath="" />
+    </ItemGroup>
 </Project>
