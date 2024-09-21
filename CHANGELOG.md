@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.2.2"></a>
+## [0.2.2](https://www.github.com/koko-u/DotnetHelpers/releases/tag/v0.2.2) (2024-09-21)
+
+### Bug Fixes
+
+* csproj README path (2) ([3edfcf4](https://www.github.com/koko-u/DotnetHelpers/commit/3edfcf449dae7c89da4bb8513270d55830385bc9))
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://www.github.com/koko-u/DotnetHelpers/releases/tag/v0.2.1) (2024-09-21)
 
