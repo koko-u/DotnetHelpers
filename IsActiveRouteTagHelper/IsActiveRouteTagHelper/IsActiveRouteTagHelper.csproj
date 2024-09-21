@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>0.1.0</Version>
+    <Title>IsActiveRouteTagHelper</Title>
+    <Description>ASP.NET MVC でナビゲータのアンカータグに active クラス属性を追加するためのタグヘルパーです</Description>
+    <Copyright>2024 KOZAKI Tsuneaki</Copyright>
+    <PackageLicenseUrl>MIT</PackageLicenseUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+</Project>
