@@ -9,7 +9,7 @@
     <Description>ASP.NET MVC でナビゲータのアンカータグに active クラス属性を追加するためのタグヘルパーです</Description>
     <Copyright>2024 KOZAKI Tsuneaki</Copyright>
     <PackageLicenseUrl>MIT</PackageLicenseUrl>
-    <PackageReadmeFile>../README.md</PackageReadmeFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,6 +17,6 @@
   </ItemGroup>
 
     <ItemGroup>
-        <None Include="../README.md" Pack="true" PackagePath="" />
+        <None Include="README.md" Pack="true" PackagePath="" />
     </ItemGroup>
 </Project>
